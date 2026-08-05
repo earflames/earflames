@@ -1,26 +1,29 @@
 <div align="center">
 
-# 🪽 Welcome to Thea's Dream World 🪽
+### 🪽 Welcome To My Ethereal Space 🪽
 
-<!-- GIF Sayap Malaikat Berkedip -->
-<img src="https://giphy.com" width="150" alt="Angel Wing">
+<!-- TEMPAT GAMBAR PERTAMA -->
+<img width="895" height="200" alt="b06307b5-f2c8-4f29-9550-d8654438ca18" src="https://github.com/user-attachments/assets/dc51331b-ffd1-43f3-a0be-af1907b1c629" />
+
 
 <br>
 
-> *“Floating on soft pink clouds, catching stars in Pony Town.”* 🪐✨
+### 💭 ─── Ethereal Whispers ─── 💭
+
+> *“Fading into the soft pastel sky, where the clouds taste like cotton candy and the stars sing lullabies. Leave your wings at the door, and let yourself float away in this quiet daydream.”* 🩰✨
+
 
 ---
 
-### 🧸 ─── My Dream Badges ─── 🧸
 
-<!-- Kapsul Warna Pink, Krem, dan Cokelat Estetik -->
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+<!-- TEMPAT GAMBAR KEDUA -->
+<img width="540" height="304" alt="giphy(1)" src="https://github.com/user-attachments/assets/dee174a2-815f-428a-a06e-eae9c19c886b" />
+
 
 ---
 
-<!-- GIF Bintang Piksel Gemes -->
-<img src="https://giphy.com" width="80" alt="Pixel Sparkles">
+<!-- TEMPAT GAMBAR KETIGA -->
+<img width="500" height="282" alt="giphy(0)" src="https://github.com/user-attachments/assets/6ece6dcd-e054-4309-9066-f739d63a12de" />
+
 
 </div>
