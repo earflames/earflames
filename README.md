@@ -3,10 +3,11 @@
 ### 🪽 Welcome To My Ethereal Space 🪽
 
 <!-- TEMPAT GAMBAR PERTAMA -->
-<img width="524" height="231" alt="29335561-9503-4215-952f-3b6e0002b01a" src="https://github.com/user-attachments/assets/80ae04ac-5c8a-4272-a94d-a0008fa6864b" />
+<img width="524" height="231" alt="29335561-9503-4215-952f-3b6e0002b01a" src="https://github.com/user-attachments/assets/6b5001c6-b118-4ca7-a223-b8242b47469b" />
 
 
 <br>
+
 
 ### 💭 ─── Ethereal Whispers ─── 💭
 
@@ -20,17 +21,18 @@
 <img width="540" height="304" alt="giphy(1)" src="https://github.com/user-attachments/assets/dee174a2-815f-428a-a06e-eae9c19c886b" />
 
 
-<br>
-
-
-<!-- TEMPAT GAMBAR KETIGA -->
-<img width="500" height="282" alt="giphy(0)" src="https://github.com/user-attachments/assets/6ece6dcd-e054-4309-9066-f739d63a12de" />
-
-
 ---
 
 
+<!-- TEMPAT GAMBAR KETIGA -->
+<img width="480" height="203" alt="1b8f7fc4-dccf-490d-a736-229d4a0e445a" src="https://github.com/user-attachments/assets/852650f9-dae9-4231-854b-994cfd12f6a3" />
+
+
+##### this user is an angel
+
+
 <!-- TEMPAT GAMBAR KEEMPAT -->
+<img width="1329" height="200" alt="603edb1a-bcfb-43a3-b34e-e329dc1f60b0" src="https://github.com/user-attachments/assets/7309f18a-e7f1-4f81-9b71-4d9ee0e4e89b" />
 
 
 
