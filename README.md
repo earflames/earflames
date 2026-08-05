@@ -1,28 +1,26 @@
 <div align="center">
 
-<!-- Teks Berjalan -->
-<marquee><span style="color:#7D6E65;">ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ Welcome to my cozy space! ✩‧₊˚</span></marquee>
+# 🪽 Welcome to Thea's Dream World 🪽
 
-<!-- GIF Sayap Malaikat -->
-<img src="https://giphy.com" width="100" alt="Angel Wing">
-
-# <span style="color:#7D6E65;">Hi, I'm Thea!</span>
-
-<!-- Hitung Pengunjung (earflames) -->
-![Views](https://komarev.com)
+<!-- GIF Sayap Malaikat Berkedip -->
+<img src="https://giphy.com" width="150" alt="Angel Wing">
 
 <br>
 
-*“Floating on soft pink clouds, catching stars.”*
-
-🏹 **Discord:** @calthunne
-
+> *“Floating on soft pink clouds, catching stars in Pony Town.”* 🪐✨
 
 ---
 
+### 🧸 ─── My Dream Badges ─── 🧸
 
-<!-- Kapsul Badge Warna Estetik -->
-![Angelcore](https://shields.io)
-![Cozy](https://shields.io)
+<!-- Kapsul Warna Pink, Krem, dan Cokelat Estetik -->
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+---
+
+<!-- GIF Bintang Piksel Gemes -->
+<img src="https://giphy.com" width="80" alt="Pixel Sparkles">
 
 </div>
