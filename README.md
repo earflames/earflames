@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**earflames/earflames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Teks Berjalan -->
+<marquee><span style="color:#7D6E65;">ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ Welcome to my cozy space! ✩‧₊˚</span></marquee>
 
-Here are some ideas to get you started:
+<!-- GIF Sayap Malaikat -->
+<img src="https://giphy.com" width="100" alt="Angel Wing">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <span style="color:#7D6E65;">Hi, I'm Thea!</span>
+
+<!-- Hitung Pengunjung (earflames) -->
+![Views](https://komarev.com)
+
+<br>
+
+*“Floating on soft pink clouds, catching stars.”*
+
+🏹 **Discord:** @calthunne
+
+
+---
+
+
+<!-- Kapsul Badge Warna Estetik -->
+![Angelcore](https://shields.io)
+![Cozy](https://shields.io)
+
+</div>
