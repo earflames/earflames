@@ -31,6 +31,16 @@
 ##### this user is an angel
 
 
+<br>
+
+
+<img src="https://komarev.com/ghpvc/?username=earflames&style=plastic&color=lightgrey" alt="Profil views">
+</p>
+
+
+<br>
+
+
 <!-- TEMPAT GAMBAR KEEMPAT -->
 <img width="1329" height="200" alt="603edb1a-bcfb-43a3-b34e-e329dc1f60b0" src="https://github.com/user-attachments/assets/7309f18a-e7f1-4f81-9b71-4d9ee0e4e89b" />
 
