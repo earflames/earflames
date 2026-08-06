@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🪽 Welcome To My Ethereal Space 🪽
+#### 🪽 Welcome To My Ethereal Space 🪽
 
 <!-- TEMPAT GAMBAR PERTAMA -->
 <img width="524" height="231" alt="29335561-9503-4215-952f-3b6e0002b01a" src="https://github.com/user-attachments/assets/6b5001c6-b118-4ca7-a223-b8242b47469b" />
@@ -9,9 +9,9 @@
 <br>
 
 
-### 💭 ─── Ethereal Whispers ─── 💭
+##### 💭 ─── Ethereal Whispers ─── 💭
 
-> *“Fading into the soft pastel sky, where the clouds taste like cotton candy and the stars sing lullabies. Leave your wings at the door, and let yourself float away in this quiet daydream.”* 🩰✨
+> *“Fading into the soft blossom sky, where the mist tastes like sweet cotton candy and the emerald leaves whisper lullabies. Leave your wings at the door, and let yourself float away in this quiet, rosy-tinted daydream.”* 🩰✨
 
 
 <br>
